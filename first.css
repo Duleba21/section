@@ -1,0 +1,48 @@
+.author{
+    width: 1120px;
+    height: 425px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 24px;
+    position: absolute;
+    top: 560%;
+}
+
+.author h2{
+    font-weight: 700;
+    font-size: 3.6rem;
+    line-height: 1.33;
+}
+
+.author img{
+    width: 141px;
+    height: 141px;
+    align-self: center;
+}
+
+.wrap h4{
+   font-weight: 700;
+   font-size: 2.2rem;
+   line-height: 2.18;
+}
+
+.found{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 2.67;
+}
+
+.phrase p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.9rem;
+    line-height: 1.58;
+}
+
+table{
+    table-layout: fixed;
+}
+
+th, td {
+    padding: 20px;
+  }

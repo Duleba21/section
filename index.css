@@ -1,0 +1,12 @@
+@import url(resert.css);
+@import url(first.css);
+
+html,
+body{
+    font-size: 10px;
+
+}
+
+*{
+    box-sizing: border-box;
+}
